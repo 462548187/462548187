@@ -18,7 +18,7 @@
 
 # 关于我的一些统计数据
 [![六月's GitHub stats](https://github-readme-stats.vercel.app/api?username=462548187&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![六月's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=462548187&layout=compact&hide_border=true&langs_count=10)
+![六月's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=462548187&layout=compact&theme=dark)
 
 # 顶级存储库
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework)](https://github.com/462548187/fastApiFramework)
