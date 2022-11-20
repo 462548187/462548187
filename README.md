@@ -17,5 +17,4 @@
 - 👍 擅长 Python/Vue, 熟悉 Java
 
 # 关于我的一些统计数据
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`462548187`-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=`462548187`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+[![六月's GitHub stats](https://github-readme-stats.vercel.app/api?username=462548187&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
