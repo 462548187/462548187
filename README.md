@@ -1,5 +1,4 @@
 # Hi there 👋
-- Hello, I'm Yingqing Shan
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 # Introduction
