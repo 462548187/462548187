@@ -20,3 +20,6 @@
 [![六月's GitHub stats](https://github-readme-stats.vercel.app/api?username=462548187&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![六月's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=462548187&layout=compact&hide_border=true&langs_count=10)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=github-readme-stats)](https://github.com/462548187/github-readme-stats)
