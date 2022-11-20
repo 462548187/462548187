@@ -1,7 +1,6 @@
 # Hi there 👋
 - Hello, I'm Yingqing Shan
-- 
-- ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`462548187`-github-readme)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 # Introduction
 - 🔭 Ctrip TestDevelper Manager
