@@ -1,5 +1,5 @@
 ** Hi there 👋 **
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&data=followers,repositories,stars,commits)](https://github.com/462548187/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&layout=compact&theme=radical&data=followers,repositories,stars,commits)](https://github.com/462548187/)
 
 **About me (EN)**
 - 🔭 Weee! TestDevelper Manager
