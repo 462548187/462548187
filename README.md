@@ -23,11 +23,7 @@
 #### Top Repositories
 
 
-| <a href="https://github.com/462548187/fastApiFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" />
-</a> | <a href="https://github.com/462548187/fastApiFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" />
-</a> |
+| <a href="https://github.com/462548187/fastApiFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" /></a> | <a href="https://github.com/462548187/fastApiFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" /></a> |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <br />
 <br />
