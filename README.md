@@ -1,14 +1,13 @@
-# Hi there 👋
+** Hi there 👋 **
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&data=followers,repositories,stars,commits)](https://github.com/462548187/)
 
-# Introduction
+**About me (EN)**
 - 🔭 Weee! TestDevelper Manager
 - 📫 Base Shanghai
 - 👍 be good at Python/Vue, be similar to Java
 - 💬 Ask me about anything [here](https://github.com/462548187/462548187/issues)
 
-
-# 自我介绍
+**About me (ZH)**
 - 🔭 职位: Weee! 测试开发经理
 - 📫 城市: 上海
 - 👍 擅长 Python/Vue, 熟悉 Java
@@ -21,12 +20,21 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-# Top Repositories
-<a href="https://github.com/462548187/fastApiFramework">
+#### Top Repositories
+
+
+|<a href="https://github.com/462548187/fastApiFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" />
-</a>
-<a href="https://github.com/462548187/fastApiFramework">
+</a>|<a href="https://github.com/462548187/fastApiFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=462548187&repo=fastApiFramework&theme=radical" />
-</a>
+</a>|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <br />
 <br />
+
+<a href="#">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="#">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
