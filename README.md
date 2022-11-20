@@ -2,14 +2,14 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=462548187&data=followers,repositories,stars,commits)](https://github.com/462548187/)
 
 # Introduction
-- 🔭 Ctrip TestDevelper Manager
+- 🔭 Weee! TestDevelper Manager
 - 📫 Base Shanghai
 - 👍 be good at Python/Vue, be similar to Java
 - 💬 Ask me about anything [here](https://github.com/462548187/462548187/issues)
 
 
 # 自我介绍
-- 🔭 职位: 测试开发经理
+- 🔭 职位: Weee! 测试开发经理
 - 📫 城市: 上海
 - 👍 擅长 Python/Vue, 熟悉 Java
 - 💬 [在这里](https://github.com/462548187/462548187/issues)你可以随便提问
