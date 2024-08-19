@@ -4,7 +4,7 @@
 
 **About me (EN)**
 
-- 🔭 Weee! TestDevelper Manager
+- 🔭 TestDevelper Manager
 
 - 📫 Base Shanghai
 
