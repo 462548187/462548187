@@ -4,7 +4,7 @@
 
 **About me (EN)**
 
-- 🔭 TestDevelper Manager
+- 🔭 Test Development Architect
 
 - 📫 Base Shanghai
 
@@ -14,7 +14,7 @@
 
 **About me (ZH)**
 
-- 🔭 职位: 开发测试经理
+- 🔭 职位: 测试开发架构师
 
 - 📫 城市: 上海
 
